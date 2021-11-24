@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean Murphy (https://www.linkedin.com/in/seanrmurphy/)
+- 👋 Hi, I’m Sean Murphy, Director of Sales & Marketing, Cassia Content Managment (www.cassiacm.com)
 - 👀 I’m interested in developing partnership opportunities with freelancers, companies who develop/consult in Oracle and SAP.
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on OpenText Extended ECM for SAP, SAP SuccessFactors, SAP S/4 Hana, and Oracle  
