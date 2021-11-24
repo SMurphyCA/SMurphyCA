@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sean Murphy (https://www.linkedin.com/in/seanrmurphy/)
-- 👀 I’m interested in developing partnership opportunities with freelancers, companies who develop/consult in Oracle, SAP and Salesforce.
+- 👀 I’m interested in developing partnership opportunities with freelancers, companies who develop/consult in Oracle and SAP.
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on OpenText Extended ECM for SAP, SAP SuccessFactors, SAP S/4 Hana, and Oracle  
 - 📫 How to reach me: sean.murphy@cassiacm.com
